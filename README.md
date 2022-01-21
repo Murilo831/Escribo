@@ -5,7 +5,8 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Dart sdk](https://dart.dev/get-dart)
+[Dart sdk](https://dart.dev/get-dart).
+
 Além disto um editor para trabalhar com o código:
 [VSCode](https://code.visualstudio.com/)
 [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
