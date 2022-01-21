@@ -14,3 +14,18 @@ Além disto um editor para trabalhar com o código:
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/Murilo831/Escribo.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Escribo
+
+# Abra em algum editor citado acima ou de sua preferência 
+# exemplo:
+$ code Escribo
+
+# Para rodar:
+# IntelliJ IDEA
+$ shift + F10
+
+# VSCode
+$ Ctrl + alt + N
+```
