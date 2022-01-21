@@ -19,7 +19,7 @@ $ git clone <https://github.com/Murilo831/Escribo.git>
 $ cd Escribo
 
 # Abra em algum editor citado acima ou de sua preferência 
-# exemplo:
+# exemplo VSCode:
 $ code Escribo
 
 # Para rodar:
