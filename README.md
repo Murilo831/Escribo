@@ -8,7 +8,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Dart sdk](https://dart.dev/get-dart).
 
 Além disto um editor para trabalhar com o código:
-[VSCode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/) ou
 [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
 
 ```bash
