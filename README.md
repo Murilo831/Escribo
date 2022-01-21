@@ -10,3 +10,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto um editor para trabalhar com o código:
 [VSCode](https://code.visualstudio.com/)
 [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/Murilo831/Escribo.git>
